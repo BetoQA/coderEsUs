@@ -55,23 +55,39 @@ La distribución de teclas **QWERTY** **Inglés (United States)** esta mejor dis
 
 **posición normal**
 
-![image-20221020114418596](assets/img/image-20221020114418596.png)
+
+
+![2025-12-08 16_28_37](assets/img/2025-12-0816_28_37-1765236208067.png)
+
+
+
+
 
 **Tecla de mayúsculas presionada**
 
-![image-20221020115017428](assets/img/image-20221020115017428.png)
+
+
+![2025-12-08 20_53_53](assets/img/2025-12-0820_53_53-1765246695701.png)
+
+
 
 **Tecla shift presionada**
 
-![image-20221020115100737](assets/img/image-20221020115100737.png)
+
+
+![2025-12-08 16_28_58](assets/img/2025-12-0816_28_58-1765236267024.png)
 
 **Tecla AltGr presionada**
 
-![image-20221020115135036](assets/img/image-20221020115135036.png)
+
+
+![2025-12-08 16_29_15](assets/img/2025-12-0816_29_15-1765236285213.png)
 
 **Tecla Shift + AltGr presionadas**
 
-![image-20221020115237340](assets/img/image-20221020115237340.png)
+
+
+![2025-12-08 16_29_28](assets/img/2025-12-0816_29_28.png)
 
 ### Dead keys
 
